@@ -6,7 +6,7 @@
 
 Desenvolvedor FullStack, nos últimos anos estou vivendo uma imersão no mundo da tecnologia, na
 qual me apaixonei pelo desenvolvimento de software. Atualmente cursando Sistemas da Informação
-( 4º período ) e concluído o bootcamp FullStack da Kenzie Academy . Assim como em muitos parâmetros da minha vida, estou focado em construir uma carreira sólida, para que além de um ótimo profissional, eu possa contribuir para com todos aqueles que me rodeiam.
+( 4º período ). Assim como em muitos parâmetros da minha vida, estou focado em construir uma carreira sólida, para que além de um ótimo profissional, eu possa contribuir para com todos aqueles que me rodeiam.
 
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andrzcavalcante&show_icons=true&theme=dracula)
